@@ -1,0 +1,22 @@
+
+>>[2022-03-09 15:52:54] HEU KMS Activator 24.1.0 启动成功
+
+>>[2022-03-09 15:53:02] 【CLICK Check_Act......】
+Act Option = 1 OS Arch = X64 Build Number = 19044 EditionId = Professional
+激活Windows=1 激活Office=1 数字/KMS38=1 OEM激活=1 Office自动转VL=1 在线KMS服务器=0 KMS自动续期=1 生成日志=1 
+
+>>[2022-03-09 15:53:02] Office2010 _OfficeExistCheck OfficeExist = 0 C2R =  MSI = 0 PRIds = 
+
+>>[2022-03-09 15:53:02] Office2013 _OfficeExistCheck OfficeExist = 0 C2R =  MSI = 0 PRIds = 
+
+>>[2022-03-09 15:53:02] Office2016 _OfficeExistCheck OfficeExist = 1 C2R = HKLM64\SOFTWARE\Microsoft\Office\ClickToRun\Configuration MSI = 0 PRIds = OneNoteFreeRetail,O365ProPlusRetail,MondoVolume
+
+>>[2022-03-09 15:53:02] [SC] EnumQueryServicesStatus:OpenService 失败 1060:
+
+指定的服务未安装。
+
+
+>>[2022-03-09 15:53:03] [SC] EnumQueryServicesStatus:OpenService 失败 1060:
+
+指定的服务未安装。
+
